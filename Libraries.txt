@@ -1,0 +1,11 @@
+pip install flask 
+pip install inflect
+pip install scikit-learn==0.22.2.post1
+pip install profanity-check
+pip install --upgrade profanity-check
+pip install pandas
+pip install numpy 
+
+
+
+
